@@ -2,10 +2,12 @@
 #### I am FrontEnd Developer
 ![I am FrontEnd Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
- 
+programming is my way to develop my skills ,challenge my self to learn more,using different technology to achieve the Mission
+
 Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
+
 
 
 
