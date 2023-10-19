@@ -18,30 +18,10 @@
 - 🌱 I’m learning Exploring Technical Content Writing.
 - 📫 How to reach me: [<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/salma-sakr-425100225//)     
 - ⚡ In my free time, I solve problems on Hacker Rank and read tech articles.
-#### About ME
+<h3 id="user-content-hammer_and_wrench-languages-and-tools-" dir="auto"> <a class="heading-link " href="#hammer_and_wrench-About-me-" >👨‍💻 About me: </a></h3>
 programming is my way to develop my skills ,challenge my self to learn more,using different technology to achieve the Mission
 #### Skills
 HTML / CSS /JS/SASS/TailWind CSS/TypeScript/Angular
 
-- 🔭 I’m currently working on this page. 
 
 
-
-
-
-
-
-
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
