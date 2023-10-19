@@ -19,7 +19,9 @@
 - 📫 How to reach me: [<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/salma-sakr-425100225//)     
 - ⚡ In my free time, I solve problems on Hacker Rank and read tech articles.
 <h3 id="user-content-hammer_and_wrench-languages-and-tools-" dir="auto"> <a class="heading-link " href="#hammer_and_wrench-About-me-" >👨‍💻 About me: </a></h3>
-programming is my way to develop my skills ,challenge my self to learn more,using different technology to achieve the Mission
+
+  <span> <img src='https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif' height='30px' width='40px'> 
+programming is my way to develop my skills ,challenge my self to learn more,using different technology to achieve the Mission </span>
 #### Skills
 HTML / CSS /JS/SASS/TailWind CSS/TypeScript/Angular
 
