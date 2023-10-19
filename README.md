@@ -20,7 +20,7 @@
 - ⚡ In my free time, I solve problems on Hacker Rank and read tech articles.
 <h3 id="user-content-hammer_and_wrench-languages-and-tools-" dir="auto"> <a class="heading-link " href="#hammer_and_wrench-About-me-" >👨‍💻 About me: </a></h3>
 
-  <span> <img src='(https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif)' height='30px' width='40px'> 
+  <span> <img src='([https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-4706460855862906629&psig=AOvVaw2Qhtr2LirFGbLvNvD6FQR-&ust=1697836227223000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDS_vyCg4IDFQAAAAAdAAAAABAS)https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-4706460855862906629&psig=AOvVaw2Qhtr2LirFGbLvNvD6FQR-&ust=1697836227223000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDS_vyCg4IDFQAAAAAdAAAAABAS)' height='30px' width='40px'> 
 programming is my way to develop my skills ,challenge my self to learn more,using different technology to achieve the Mission </span>
 #### Skills
 HTML / CSS /JS/SASS/TailWind CSS/TypeScript/Angular
