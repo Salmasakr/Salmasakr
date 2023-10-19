@@ -4,8 +4,8 @@
 
 #### About ME
 programming is my way to develop my skills ,challenge my self to learn more,using different technology to achieve the Mission
-
-Skills: VUE JS / REACT / JS / HTML / CSS
+#### Skills
+HTML / CSS /JS/SASS/TailWind CSS/TypeScript/Angular
 
 - 🔭 I’m currently working on this page. 
 
