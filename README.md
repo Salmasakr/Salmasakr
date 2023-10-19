@@ -23,7 +23,19 @@
 programming is my way to develop my skills ,challenge my self to learn more,using different technology to achieve the Mission </span>
 
 <h3 id="user-content-hammer_and_wrench-languages-and-tools-" dir="auto"> <a class="heading-link " href="#hammer_and_wrench-languages-and-tools-" >🛠️ Skills :</a></h3> 
-HTML / CSS /JS/SASS/TailWind CSS/TypeScript/Angular
+
+<div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS" alt="C#" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++ " width="40" height="40" style="max-width: 100%;"></a>&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" style="max-width: 100%;"></a>&nbsp; 
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" title=".NET" alt=".NET" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
+ <a target="_blank" rel="noopener noreferrer" href="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
+ <a target="_blank" rel="noopener noreferrer" href="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" title="Angular" alt="Angular" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
+ <a target="_blank" rel="noopener noreferrer" href="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="Angular" alt="Angular" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
+   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
+</div>
 
 
 
