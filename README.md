@@ -14,6 +14,7 @@
  </a>
 </h2>
 <img src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" width="500px" height="400px">
+
 - 🌱 I’m learning Exploring Technical Content Writing.
 - 📫 How to reach me: [<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/hadeer-sakr-0a7430185//)     
 - ⚡ In my free time, I solve problems on Hacker Rank and read tech articles.
