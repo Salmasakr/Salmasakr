@@ -25,7 +25,7 @@ programming is my way to develop my skills ,challenge my self to learn more,usin
 <h3 id="user-content-hammer_and_wrench-languages-and-tools-" dir="auto"> <a class="heading-link " href="#hammer_and_wrench-languages-and-tools-" >🛠️ Skills :</a></h3> 
 
 <div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS" alt="C#" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="CSS" alt="C#" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++ " width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" style="max-width: 100%;"></a>&nbsp; 
