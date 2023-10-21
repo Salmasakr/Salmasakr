@@ -42,5 +42,4 @@ programming is my way to develop my skills ,challenge my self to learn more,usin
 
 <div> <a target="_blank" rel="noopener noreferrer" href="https://github.com/Hadeer-reda-sakr"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" title="github" alt='github' width="40" height="40" style="max-width: 100%;"></a>&nbsp;
     <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/hadeer-sakr-0a7430185//"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" title="linkedin" alt='linkedin' width="40" height="40" style="max-width: 100%;"></a>&nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/users/22487568/hadeer-sakr"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" title="StackoverFlow" alt='StackoverFlow' width="40" height="40" style="max-width: 100%;"></a>&nbsp;
 </div>
