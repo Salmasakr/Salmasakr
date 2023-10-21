@@ -35,7 +35,7 @@ programming is my way to develop my skills ,challenge my self to learn more,usin
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" title="Angular" alt="Angular" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="Angular" alt="Angular" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40" style="max-width: 100%;"></a>&nbsp;  
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="Bootstrap" alt="Github" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="Bootstrap" alt="Github" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
 </div>
 
 
