@@ -40,6 +40,6 @@ programming is my way to develop my skills ,challenge my self to learn more,usin
 
 <h3 id="user-content-hammer_and_wrench-languages-and-tools-" dir="auto"> <a class="heading-link " href="#hammer_and_wrench-Social-Information-" > Social Information</a></h3> 
 
-<div> <a target="_blank" rel="noopener noreferrer" href="https://github.com/Hadeer-reda-sakr"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" title="github" alt='github' width="40" height="40" style="max-width: 100%;"></a>&nbsp;
+<div> <a target="_blank" rel="noopener noreferrer" href="https://github.com/Salmasakr"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" title="github" alt='github' width="40" height="40" style="max-width: 100%;"></a>&nbsp;
     <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/salma-sakr-425100225//"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" title="linkedin" alt='linkedin' width="40" height="40" style="max-width: 100%;"></a>&nbsp;
 </div>
